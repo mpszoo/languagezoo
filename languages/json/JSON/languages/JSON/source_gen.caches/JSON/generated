@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-eu4nc5akrbzht4k7it97n9p6np2ozff">
+  <dep model="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)" />
+  <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+  <dep model="r:06124b4a-a859-4dee-a63b-87e35e28d7ca(JSON.typesystem)" hash="dufdtvr8w3ggx5mk5ehorwkx31stts6" />
+  <dep model="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)" hash="bk1frgkibhsc2ooy5iz2ptbcdt0df91" />
+  <common>
+    <dep model="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:06124b4a-a859-4dee-a63b-87e35e28d7ca(JSON.typesystem)" />
+    <dep model="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)" />
+    <file name="Language.java" />
+  </common>
+</dependencies>
+
