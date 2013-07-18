@@ -14,10 +14,12 @@ public class BehaviorAspectDescriptor implements jetbrains.mps.smodel.runtime.Be
     switch (Arrays.binarySearch(stringSwitchCases_846f5o_a0a0b, fqName)) {
       case 0:
         return new JSONFile_BehaviorDescriptor();
+      case 1:
+        return new JSONInteger_BehaviorDescriptor();
       default:
         return BehaviorAspectInterpreted.getInstance().getDescriptor(fqName);
     }
   }
 
-  private static String[] stringSwitchCases_846f5o_a0a0b = new String[]{"JSON.structure.JSONFile"};
+  private static String[] stringSwitchCases_846f5o_a0a0b = new String[]{"JSON.structure.JSONFile", "JSON.structure.JSONInteger"};
 }

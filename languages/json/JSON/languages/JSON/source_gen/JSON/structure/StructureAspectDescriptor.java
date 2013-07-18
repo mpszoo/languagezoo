@@ -14,11 +14,17 @@ public class StructureAspectDescriptor implements jetbrains.mps.smodel.runtime.S
   public ConceptDescriptor getDescriptor(String conceptFqName) {
     switch (Arrays.binarySearch(stringSwitchCases_1htk8d_a0a0b, conceptFqName)) {
       case 0:
-        return new ConceptDescriptorBuilder("JSON.structure.JSONFile").super_("jetbrains.mps.lang.core.structure.BaseConcept").parents("jetbrains.mps.lang.core.structure.BaseConcept", "jetbrains.mps.lang.core.structure.INamedConcept").create();
+        return new ConceptDescriptorBuilder("JSON.structure.JSONElement").super_("jetbrains.mps.lang.core.structure.BaseConcept").parents("jetbrains.mps.lang.core.structure.BaseConcept").abstract_().create();
+      case 1:
+        return new ConceptDescriptorBuilder("JSON.structure.JSONFile").super_("jetbrains.mps.lang.core.structure.BaseConcept").parents("jetbrains.mps.lang.core.structure.BaseConcept", "jetbrains.mps.lang.core.structure.INamedConcept").children(new String[]{"root"}, new boolean[]{false}).create();
+      case 2:
+        return new ConceptDescriptorBuilder("JSON.structure.JSONInteger").super_("JSON.structure.JSONValue").parents("JSON.structure.JSONValue").properties("value").create();
+      case 3:
+        return new ConceptDescriptorBuilder("JSON.structure.JSONValue").super_("JSON.structure.JSONElement").parents("JSON.structure.JSONElement").abstract_().create();
       default:
         return StructureAspectInterpreted.getInstance().getDescriptor(conceptFqName);
     }
   }
 
-  private static String[] stringSwitchCases_1htk8d_a0a0b = new String[]{"JSON.structure.JSONFile"};
+  private static String[] stringSwitchCases_1htk8d_a0a0b = new String[]{"JSON.structure.JSONElement", "JSON.structure.JSONFile", "JSON.structure.JSONInteger", "JSON.structure.JSONValue"};
 }

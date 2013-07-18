@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="6uru4ryf2kcivarr55m391qixjjvv6c">
+<dependencies version="2" modelHash="2k1q7ubf7e09rskog7ua978v1g4kwl6">
   <dep model="f:java_stub#6ed54515-acc8-4d1e-a16c-9fd6cfe951ea#jetbrains.mps.smodel.runtime.impl(MPS.Core/jetbrains.mps.smodel.runtime.impl@java_stub)" />
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
-  <common hash="-dxdpdca6fsfdm2awrgqopvp3b8up805">
+  <common hash="-c6rg6xa44i85tcoi8c8p8puon2sw9iy">
     <dep root="2096455501973035359" />
+    <dep root="2096455501973363904" />
+    <dep root="2096455501973363911" />
+    <dep root="2096455501973363916" />
     <dep model="f:java_stub#6ed54515-acc8-4d1e-a16c-9fd6cfe951ea#jetbrains.mps.smodel.runtime.impl(MPS.Core/jetbrains.mps.smodel.runtime.impl@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
@@ -16,7 +19,16 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="StructureAspectDescriptor.java" />
   </common>
-  <source id="2096455501973035359" name="JSONFile" hash="do7v7ts8mv1dt4esaskbpdd89xqbgvw">
+  <source id="2096455501973035359" name="JSONFile" hash="-2wc17yd4f97eirvea1td8w9svcere6p">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="2096455501973363904" name="JSONElement" hash="7kf1hic5uj08g74s9zgxcy0ir1j535l">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="2096455501973363911" name="JSONValue" hash="9ufvtazy6hsq6inummtq0mi5j09qsox">
+    <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
+  </source>
+  <source id="2096455501973363916" name="JSONInteger" hash="-3w5xhtvy2btmczqpkmvqv5h5dmr6k4c">
     <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
   </source>
 </dependencies>

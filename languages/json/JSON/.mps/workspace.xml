@@ -13,7 +13,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="882df533-7757-43c7-b916-801e4370bf0d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/JSONElement_BehaviorDescriptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/JSONInteger_BehaviorDescriptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/JSONInteger_Editor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/JSONValue_BehaviorDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/behavior/BehaviorAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/behavior/BehaviorAspectDescriptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/editor/EditorAspectDescriptorImpl.class" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/editor/EditorAspectDescriptorImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/editor/JSONFile_Editor.class" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/editor/JSONFile_Editor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/structure/StructureAspectDescriptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/behavior/dependencies" afterPath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/behavior/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/editor/dependencies" afterPath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/editor/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/generated" afterPath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/behavior/generated" afterPath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/behavior/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/editor/generated" afterPath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/editor/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/structure/generated" afterPath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/structure/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/behavior/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/editor/trace.info" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/editor/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/structure/trace.info" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/structure/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/trace.info" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/structure/trace.info" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/structure/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/BehaviorAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/BehaviorAspectDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/EditorAspectDescriptorImpl.java" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/EditorAspectDescriptorImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/JSONFile_Editor.java" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/JSONFile_Editor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/structure/StructureAspectDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/JSON/languageModels/editor.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/sandbox/models/JSON/sandbox.mps" afterPath="$PROJECT_DIR$/languages/JSON/sandbox/models/JSON/sandbox.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/JSON/languageModels/structure.mps" />
     </list>
@@ -47,17 +72,7 @@
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
               <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="40" />
-                    <property name="caretX" value="290" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_rootable" cellNumber="0" isInList="false">
-                      <node node_reference="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)/2096455501973035359" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
+                <selectionStack />
                 <folded />
                 <enabledHints />
               </memento>
@@ -66,12 +81,12 @@
                 <folded />
                 <enabledHints />
               </inspectorMemento>
-              <node node_ref="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)/2096455501973035359" />
+              <node node_ref="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)/2096455501973080436" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_data" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="my_data" pinned="false" current="true" current-in-tab="true">
         <entry file="mps://node://JSON.sandbox/JSON.sandbox/my_data">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -79,11 +94,11 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="70" />
-                    <property name="caretX" value="170" />
+                    <property name="caretXRelative" value="20" />
+                    <property name="caretX" value="35" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:90d7446b-b5e8-417d-8ee2-58eaa32905af(JSON.sandbox)/2096455501973363901" />
+                    <cellInfo cellId="property_value" cellNumber="0" isInList="false">
+                      <node node_reference="r:90d7446b-b5e8-417d-8ee2-58eaa32905af(JSON.sandbox)/2096455501973374243" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -128,7 +143,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JSONValue" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="JSONValue" pinned="false" current="false" current-in-tab="false">
         <entry file="mps://node://JSON/JSON.structure/JSONValue">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
@@ -153,6 +168,25 @@
                 <enabledHints />
               </inspectorMemento>
               <node node_ref="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)/2096455501973363911" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONInteger" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://JSON/JSON.structure/JSONInteger">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+              <node node_ref="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)/2096455501973363938" />
             </state>
           </provider>
         </entry>

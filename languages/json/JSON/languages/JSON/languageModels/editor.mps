@@ -22,6 +22,15 @@
           <property name="flag" nameId="tpc2.1186414551515" value="false" />
         </node>
       </node>
+      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_RefNode" typeId="tpc2.1073389882823" id="2096455501973364035" nodeInfo="ng">
+        <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="56e3.2096455501973364019" />
+      </node>
+    </node>
+  </root>
+  <root type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="2096455501973363938" nodeInfo="ng">
+    <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="56e3.2096455501973363916" resolveInfo="JSONInteger" />
+    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="2096455501973363999" nodeInfo="ng">
+      <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="56e3.2096455501973363921" resolveInfo="value" />
     </node>
   </root>
 </model>

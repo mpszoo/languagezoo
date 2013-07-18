@@ -2,11 +2,18 @@
 <dependenciesRoot>
   <dependency className="JSON.behavior.BehaviorAspectDescriptor" file="BehaviorAspectDescriptor.java">
     <classNode dependClassName="JSON.behavior.JSONFile_BehaviorDescriptor" />
+    <classNode dependClassName="JSON.behavior.JSONInteger_BehaviorDescriptor" />
     <classNode dependClassName="java.lang.String" />
     <classNode dependClassName="java.util.Arrays" />
     <classNode dependClassName="jetbrains.mps.smodel.runtime.BehaviorDescriptor" />
     <classNode dependClassName="jetbrains.mps.smodel.runtime.interpreted.BehaviorAspectInterpreted" />
     <classNode extendsClassName="jetbrains.mps.smodel.runtime.BehaviorAspectDescriptor" />
+  </dependency>
+  <dependency className="JSON.behavior.JSONElement_BehaviorDescriptor" file="JSONElement_BehaviorDescriptor.java">
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="jetbrains.mps.lang.core.behavior.BaseConcept_BehaviorDescriptor" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
   <dependency className="JSON.behavior.JSONFile_BehaviorDescriptor" file="JSONFile_BehaviorDescriptor.java">
     <classNode dependClassName="java.lang.Override" />
@@ -16,6 +23,18 @@
     <classNode dependClassName="jetbrains.mps.lang.core.behavior.INamedConcept_BehaviorDescriptor" />
     <classNode dependClassName="org.jetbrains.mps.openapi.model.SNode" />
     <classNode extendsClassName="java.lang.Cloneable" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JSON.behavior.JSONInteger_BehaviorDescriptor" file="JSONInteger_BehaviorDescriptor.java">
+    <classNode dependClassName="JSON.behavior.JSONValue_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
+  </dependency>
+  <dependency className="JSON.behavior.JSONValue_BehaviorDescriptor" file="JSONValue_BehaviorDescriptor.java">
+    <classNode dependClassName="JSON.behavior.JSONElement_BehaviorDescriptor" />
+    <classNode dependClassName="java.lang.Override" />
+    <classNode dependClassName="java.lang.String" />
     <classNode extendsClassName="jetbrains.mps.smodel.runtime.impl.CompiledBehaviorDescriptor" />
   </dependency>
 </dependenciesRoot>
