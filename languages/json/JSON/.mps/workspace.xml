@@ -13,20 +13,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="882df533-7757-43c7-b916-801e4370bf0d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/JSONElement_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/JSONInteger_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/JSONInteger_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/JSONValue_BehaviorDescriptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/JSONBoolean_BehaviorDescriptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/JSONBoolean_Editor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/behavior/BehaviorAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/behavior/BehaviorAspectDescriptor.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/editor/EditorAspectDescriptorImpl.class" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/editor/EditorAspectDescriptorImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/editor/JSONFile_Editor.class" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/editor/JSONFile_Editor.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/structure/StructureAspectDescriptor.class" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/structure/StructureAspectDescriptor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/BehaviorAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/BehaviorAspectDescriptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/EditorAspectDescriptorImpl.java" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/EditorAspectDescriptorImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/structure/StructureAspectDescriptor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/behavior/dependencies" afterPath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/behavior/dependencies" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/editor/dependencies" afterPath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/editor/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/JSON/languageModels/editor.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/generated" afterPath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/behavior/generated" afterPath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/behavior/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/editor/generated" afterPath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/editor/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/structure/generated" afterPath="$PROJECT_DIR$/languages/JSON/source_gen.caches/JSON/structure/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/sandbox/models/JSON/sandbox.mps" afterPath="$PROJECT_DIR$/languages/JSON/sandbox/models/JSON/sandbox.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/JSON/languageModels/structure.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/behavior/trace.info" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/behavior/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/editor/trace.info" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/editor/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/structure/trace.info" afterPath="$PROJECT_DIR$/languages/JSON/classes_gen/JSON/structure/trace.info" />
@@ -34,13 +37,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/trace.info" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/structure/trace.info" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/structure/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/BehaviorAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/behavior/BehaviorAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/EditorAspectDescriptorImpl.java" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/EditorAspectDescriptorImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/JSONFile_Editor.java" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/editor/JSONFile_Editor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/structure/StructureAspectDescriptor.java" afterPath="$PROJECT_DIR$/languages/JSON/source_gen/JSON/structure/StructureAspectDescriptor.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/JSON/languageModels/editor.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/sandbox/models/JSON/sandbox.mps" afterPath="$PROJECT_DIR$/languages/JSON/sandbox/models/JSON/sandbox.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/JSON/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/JSON/languageModels/structure.mps" />
     </list>
     <ignored path="JSON.iws" />
     <ignored path=".mps/workspace.xml" />
@@ -86,22 +82,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="my_data" pinned="false" current="true" current-in-tab="true">
-        <entry file="mps://node://JSON.sandbox/JSON.sandbox/my_data">
+      <file leaf-file-name="JSONInteger" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://JSON/JSON.structure/JSONInteger">
           <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
               <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="20" />
-                    <property name="caretX" value="35" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_value" cellNumber="0" isInList="false">
-                      <node node_reference="r:90d7446b-b5e8-417d-8ee2-58eaa32905af(JSON.sandbox)/2096455501973374243" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
+                <selectionStack />
                 <folded />
                 <enabledHints />
               </memento>
@@ -110,6 +96,26 @@
                 <folded />
                 <enabledHints />
               </inspectorMemento>
+              <node node_ref="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)/2096455501973363938" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONValue" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://JSON/JSON.structure/JSONValue">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+              <node node_ref="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)/2096455501973363911" />
             </state>
           </provider>
         </entry>
@@ -122,8 +128,8 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="100" />
-                    <property name="caretX" value="280" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="caretX" value="180" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="TransactionalProperty_ueqr71_d0a" cellNumber="0" isInList="false">
                       <node node_reference="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)/2096455501973363904" />
@@ -143,19 +149,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JSONValue" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://node://JSON/JSON.structure/JSONValue">
+      <file leaf-file-name="my_data" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://JSON.sandbox/JSON.sandbox/my_data">
           <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="110" />
-                    <property name="caretX" value="500" />
+                    <property name="caretXRelative" value="50" />
+                    <property name="caretX" value="65" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)/2096455501973363911" />
+                    <cellInfo cellId="property_value" cellNumber="0" isInList="false">
+                      <node node_reference="r:90d7446b-b5e8-417d-8ee2-58eaa32905af(JSON.sandbox)/8221924964459917653" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -167,13 +173,12 @@
                 <folded />
                 <enabledHints />
               </inspectorMemento>
-              <node node_ref="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)/2096455501973363911" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JSONInteger" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://node://JSON/JSON.structure/JSONInteger">
+      <file leaf-file-name="JSONBoolean" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://node://JSON/JSON.structure/JSONBoolean">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
               <memento viewPositionX="0" viewPositionY="0">
@@ -186,7 +191,36 @@
                 <folded />
                 <enabledHints />
               </inspectorMemento>
-              <node node_ref="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)/2096455501973363938" />
+              <node node_ref="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)/8221924964459627844" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JSONString" pinned="false" current="true" current-in-tab="true">
+        <entry file="mps://node://JSON/JSON.structure/JSONString">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretXRelative" value="50" />
+                    <property name="caretX" value="175" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node node_reference="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)/8221924964459917741" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+                <enabledHints />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+                <enabledHints />
+              </inspectorMemento>
+              <node node_ref="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)/8221924964459917718" />
             </state>
           </provider>
         </entry>
@@ -362,23 +396,33 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Favorites" />
       <pane id="FileSystem" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
@@ -477,41 +521,41 @@
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="1440" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21363911" sideWeight="0.67058825" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21363911" sideWeight="0.6609626" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33903742" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -579,6 +623,156 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="mps://node://JSON/JSON.structure/JSONFile">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)/2096455501973080436" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://JSON/JSON.structure/JSONValue">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)/2096455501973363911" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://JSON/JSON.structure/JSONInteger">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)/2096455501973363938" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://JSON.sandbox/JSON.sandbox/my_data">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="50" />
+                <property name="caretX" value="65" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_value" cellNumber="0" isInList="false">
+                  <node node_reference="r:90d7446b-b5e8-417d-8ee2-58eaa32905af(JSON.sandbox)/8221924964459917653" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://JSON/JSON.structure/JSONElement">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="180" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_d0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)/2096455501973363904" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)/2096455501973363904" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://JSON/JSON.structure/JSONBoolean">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)/8221924964459627844" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://JSON/JSON.structure/JSONString">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="50" />
+                <property name="caretX" value="175" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)/8221924964459917741" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+            <enabledHints />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:0d4808c1-84a5-4524-b494-a8ebb43b2180(JSON.editor)/8221924964459917718" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
 

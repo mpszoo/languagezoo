@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="d93l5cyb7915q5jhvrvuc2lh0stnp4j">
+<dependencies version="2" modelHash="6vmjb60a9druq90nu6pe1m4w1vctor8">
   <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.editor.runtime.style(MPS.Editor/jetbrains.mps.editor.runtime.style@java_stub)" />
   <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
   <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.openapi.editor.descriptor(MPS.Editor/jetbrains.mps.openapi.editor.descriptor@java_stub)" />
@@ -8,11 +8,12 @@
   <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
-  <dep model="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)" hash="2k1q7ubf7e09rskog7ua978v1g4kwl6" />
+  <dep model="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)" hash="a1xbpwt6z1q4htu7xtv9mggwgwuu3ag" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
   <common hash="257itnyen9fjbubrabxj8wg0dpo7xmf">
     <dep root="2096455501973080436" />
     <dep root="2096455501973363938" />
+    <dep root="8221924964459627844" />
     <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.openapi.editor.descriptor(MPS.Editor/jetbrains.mps.openapi.editor.descriptor@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -37,6 +38,13 @@
     <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
     <dep model="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)" />
     <file name="JSONInteger_Editor.java" />
+  </source>
+  <source id="8221924964459627844" name="JSONBoolean_Editor" hash="5jsjm42jhbfv9eymmq931hn6y1s0vab">
+    <dep model="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)" />
+    <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+    <dep model="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)" />
+    <file name="JSONBoolean_Editor.java" />
   </source>
 </dependencies>
 

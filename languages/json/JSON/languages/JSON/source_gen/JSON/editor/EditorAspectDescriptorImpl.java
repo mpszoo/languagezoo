@@ -15,8 +15,10 @@ public class EditorAspectDescriptorImpl implements EditorAspectDescriptor {
   public Collection<ConceptEditor> getEditors(ConceptDescriptor descriptor) {
     switch (Arrays.binarySearch(stringSwitchCases_xbvbvu_a0a0a, descriptor.getConceptFqName())) {
       case 0:
-        return Collections.<ConceptEditor>singletonList(new JSONFile_Editor());
+        return Collections.<ConceptEditor>singletonList(new JSONBoolean_Editor());
       case 1:
+        return Collections.<ConceptEditor>singletonList(new JSONFile_Editor());
+      case 2:
         return Collections.<ConceptEditor>singletonList(new JSONInteger_Editor());
       default:
     }
@@ -34,5 +36,5 @@ public class EditorAspectDescriptorImpl implements EditorAspectDescriptor {
   }
 
 
-  private static String[] stringSwitchCases_xbvbvu_a0a0a = new String[]{"JSON.structure.JSONFile", "JSON.structure.JSONInteger"};
+  private static String[] stringSwitchCases_xbvbvu_a0a0a = new String[]{"JSON.structure.JSONBoolean", "JSON.structure.JSONFile", "JSON.structure.JSONInteger"};
 }

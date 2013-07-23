@@ -33,5 +33,26 @@
       <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="56e3.2096455501973363921" resolveInfo="value" />
     </node>
   </root>
+  <root type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="8221924964459627844" nodeInfo="ng">
+    <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="56e3.8221924964459599219" resolveInfo="JSONBoolean" />
+    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="8221924964459636841" nodeInfo="ng">
+      <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="56e3.8221924964459627837" resolveInfo="value" />
+    </node>
+  </root>
+  <root type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="8221924964459917718" nodeInfo="ng">
+    <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="56e3.8221924964459917710" resolveInfo="JSONString" />
+    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Collection" typeId="tpc2.1073389446423" id="8221924964459917720" nodeInfo="nn">
+      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="8221924964459917727" nodeInfo="nn">
+        <property name="text" nameId="tpc2.1073389577007" value="&quot;" />
+      </node>
+      <node role="cellLayout" roleId="tpc2.1106270802874" type="tpc2.CellLayout_Horizontal" typeId="tpc2.1106270549637" id="8221924964459917723" nodeInfo="nn" />
+      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Property" typeId="tpc2.1073389658414" id="8221924964459917741" nodeInfo="ng">
+        <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="56e3.8221924964459917711" resolveInfo="value" />
+      </node>
+      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="8221924964459917733" nodeInfo="nn">
+        <property name="text" nameId="tpc2.1073389577007" value="&quot;" />
+      </node>
+    </node>
+  </root>
 </model>
 

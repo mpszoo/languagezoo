@@ -5,7 +5,7 @@
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902e8(jetbrains.mps.lang.generator.structure)" />
   <dep model="r:229ce18d-2bb0-4d5b-a7cd-cec65841e459(jetbrains.mps.lang.behavior.generator.template.main@generator)" />
-  <dep model="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)" hash="2k1q7ubf7e09rskog7ua978v1g4kwl6" />
+  <dep model="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)" hash="a1xbpwt6z1q4htu7xtv9mggwgwuu3ag" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
   <common hash="cqgo8citzh6c695e5p1lumlw5xwpsi6" dependsOnNodes="true">
     <dep model="r:00000000-0000-4000-0000-011c89590282(jetbrains.mps.lang.core.behavior)" />
@@ -16,6 +16,7 @@
     <dep model="r:dc8175c5-856f-493e-bcc9-e0d0869dcfb0(JSON.structure)" />
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="BehaviorAspectDescriptor.java" />
+    <file name="JSONBoolean_BehaviorDescriptor.java" />
     <file name="JSONElement_BehaviorDescriptor.java" />
     <file name="JSONFile_BehaviorDescriptor.java" />
     <file name="JSONInteger_BehaviorDescriptor.java" />

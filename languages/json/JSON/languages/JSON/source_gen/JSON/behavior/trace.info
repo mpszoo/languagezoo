@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <debugInfo>
-  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="26" endPosition="0" unitName="JSON.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="28" endPosition="0" unitName="JSON.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="JSONBoolean_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="JSON.behavior.JSONBoolean_BehaviorDescriptor" />
   <unitInfo fileName="JSONElement_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="JSON.behavior.JSONElement_BehaviorDescriptor" />
   <unitInfo fileName="JSONFile_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="JSON.behavior.JSONFile_BehaviorDescriptor" />
   <unitInfo fileName="JSONInteger_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="JSON.behavior.JSONInteger_BehaviorDescriptor" />

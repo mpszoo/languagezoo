@@ -7,9 +7,7 @@
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <root type="56e3.JSONFile" typeId="56e3.2096455501973035359" id="2096455501973363901" nodeInfo="ng">
     <property name="name" nameId="tpck.1169194664001" value="my_data" />
-    <node role="root" roleId="56e3.2096455501973364019" type="56e3.JSONInteger" typeId="56e3.2096455501973363916" id="2096455501973374243" nodeInfo="ng">
-      <property name="value" nameId="56e3.2096455501973363921" value="10" />
-    </node>
+    <node role="root" roleId="56e3.2096455501973364019" type="56e3.JSONBoolean" typeId="56e3.8221924964459599219" id="8221924964459917653" nodeInfo="ng" />
   </root>
 </model>
 
