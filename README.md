@@ -17,6 +17,7 @@ Language Families and projects where languages can be extracted
 Demo Languages
 --------------
 For teaching and learning, tutorials etc.
+* [Robot Kaja](https://github.com/JetBrains/MPS/tree/master/samples/robot_Kaja) by Vaclav Pech, JetBrains
 
 
 Experimental Languages
